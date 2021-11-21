@@ -1,0 +1,3 @@
+# Omit odt and html
+*.odt
+*.html
